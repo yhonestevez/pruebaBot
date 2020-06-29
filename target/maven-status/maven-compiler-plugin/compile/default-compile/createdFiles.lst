@@ -1,0 +1,9 @@
+common\rpa\utils\GetProperties.class
+common\rpa\dao\DataConnection.class
+common\rpa\utils\Excel.class
+common\rpa\utils\Selenium.class
+common\rpa\dao\DataConnectionImpl.class
+common\rpa\exception\PruebaBotException.class
+common\rpa\utils\Excel$1.class
+common\rpa\controller\Main.class
+common\rpa\model\Product.class
